@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CamTemp</string>
+    <string name="configure_name">Configure Cam</string>
+    <string name="save_config">Save</string>
+    <string name="cam_list_hint">Camera List</string>
+</resources>
